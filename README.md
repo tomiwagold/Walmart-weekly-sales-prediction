@@ -51,6 +51,7 @@ This project showcases the application of machine learning in retail sales forec
 
 
 
-*Interact with the Streamlit Web App Here:* ["Walmart Weekly Sales Prediction"]("https://walmart-weekly-sales-prediction-taku3g9yny7iymikoi6cfv.streamlit.app/")
+
+*Interact with the Streamlit Web App Here:* [Walmart Weekly Sales Prediction](https://walmart-weekly-sales-prediction-taku3g9yny7iymikoi6cfv.streamlit.app/)
 
 
